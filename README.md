@@ -24,11 +24,9 @@ This is Trivia Quiz Game.
      <tr>
     <td>  <img src="https://github.com/AArgharupa/Trivia-App/blob/master/trivia/Screenshot_1600874880.png" width="70%"></td>
     <td><img src="https://github.com/AArgharupa/Trivia-App/blob/master/trivia/Screenshot_1600874962.png" width="70%"></td>
-    <td><img src="https://github.com/AArgharupa/Trivia-App/blob/master/trivia/Screenshot_1600874978.png" width="70%"></td>
-  </tr>
-     <tr>
     <td>  <img src="https://github.com/AArgharupa/Trivia-App/blob/master/trivia/screenshot.jpg" width="70%"></td>
-    <td>  <img src="https://github.com/AArgharupa/Trivia-App/blob/master/trivia/Screenshot_1600874978.png" width="70%"></td>
+     <tr>
+     <td>  <img src="https://github.com/AArgharupa/Trivia-App/blob/master/trivia/Screenshot_1600874978.png" width="70%"></td>
   </tr>
  </table>
  </br>
