@@ -45,4 +45,5 @@ Download the Apk file on your Android phone and just install the App/Quiz via it
 * **Android animations(Rotate, alpha)**
 * **Use Android API**
 * **CountDownTimer**
+* **shared preference to save your Highest Score**
 
